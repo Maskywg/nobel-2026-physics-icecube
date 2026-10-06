@@ -5,3 +5,5 @@
 .music-toggle{position:fixed;bottom:62px;right:16px;z-index:10;font-size:12px;padding:7px 12px;background:#faf5eaf2;color:var(--red);box-shadow:0 2px 12px #2c231814}
 
 .music-toggle{bottom:72px;right:16px;min-width:135px;min-height:44px;font-size:15px;font-weight:700;background:#6e1f22;color:#fff;border:2px solid #b8863a;box-shadow:0 3px 16px #2c231830;z-index:100}.motion-toggle{z-index:100}
+
+#neutrino-bg{z-index:0}nav,header,main,footer{position:relative;z-index:1}.alt{background:rgba(255,253,247,.78)}
