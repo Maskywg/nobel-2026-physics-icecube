@@ -43,5 +43,11 @@
     "file": "og-card.jpg",
     "derived_from": "icecube.jpg",
     "modifications": "Cropped photograph with locally added typography; same noncommercial conditions"
+  },
+  {
+    "file": "official-award.jpg",
+    "source": "User-supplied official Nobel Prize announcement",
+    "credit": "Illustration: Niklas Elmehed © Nobel Prize Outreach",
+    "modifications": "None"
   }
 ]
