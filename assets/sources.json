@@ -1,0 +1,47 @@
+[
+  {
+    "file": "halzen.jpg",
+    "source": "https://icecube.wisc.edu/gallery/people/",
+    "original_url": "https://res.cloudinary.com/icecube/images/q_auto/v1602551214/gal_People_francis.halzen_21124064d/gal_People_francis.halzen_21124064d.jpg?_i=AA",
+    "credit_and_license": "Credit: EL PAIS/BERNARDO PÉREZ (<a href=\"http://www.elpais.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.elpais.com</a>) <br>\n\nProf. Francis Halzen, principal investigator of IceCube and Hilldale and Gregory Breit Distinguished Professor of Physics at the University of Wisconsin–Madison.\n\nThis image has been kindly provided by the Spanish newspaper El País. Please use the full credit, including the link, for any use. Only noncommercial uses are allowed.",
+    "modifications": "Resized and JPEG compressed; portrait displayed without cropping."
+  },
+  {
+    "file": "icecube.jpg",
+    "source": "https://icecube.wisc.edu/gallery/landscapes-and-skyscapes/",
+    "original_url": "https://icecube.wisc.edu/wp-content/uploads/galleries/Landscapes/gal_Landscapes__MG_4796ice cube3-1057843988.jpg",
+    "credit_and_license": "Credit: <a target='_blank' href='http://bentibbetts.com' rel=\"noopener noreferrer\">Ben Tibbets</a>, © 2012\n\nThe IceCube Lab seen from the air with the Seasonal Equipment Site in the back right and the drilling hoses, equipment and towers on the left.",
+    "modifications": "Resized and JPEG compressed; portrait displayed without cropping."
+  },
+  {
+    "file": "deploy.jpg",
+    "source": "https://icecube.wisc.edu/gallery/drilling-and-deployment/",
+    "original_url": "https://icecube.wisc.edu/wp-content/uploads/galleries/Deployment/gal_Deployment_10-Batch 18 Jan_ 2005 155-384614048.png",
+    "credit_and_license": "Credit: John Jacobsen, IceCube/NSF <br>\n\nThe deployment team is preparing to deploy the DOM string. The first DOM is attached directly to the weight stack at the bottom and the top is attached to a Yale grip of the main cable.",
+    "modifications": "Resized and JPEG compressed; portrait displayed without cropping."
+  },
+  {
+    "file": "sensors.jpg",
+    "source": "https://icecube.wisc.edu/gallery/digital-optical-module-dom-development/",
+    "original_url": "https://icecube.wisc.edu/wp-content/uploads/galleries/DOM/gal_DOM_14-20101217 015-1172402767.JPG",
+    "credit_and_license": "Credit: Jim Haugen, IceCube/NSF <br>\n\nDOMs are then unpacked and lined up on racks in the IceCube Laboratory in preparation for deployment.",
+    "modifications": "Resized and JPEG compressed; portrait displayed without cropping."
+  },
+  {
+    "file": "observatory.jpg",
+    "source": "https://www.nobelprize.org/prizes/physics/2026/popular-information/",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "license": "Noncommercial use with credit per official press release"
+  },
+  {
+    "file": "messengers.jpg",
+    "source": "https://www.nobelprize.org/prizes/physics/2026/popular-information/",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "license": "Noncommercial use with credit per official press release"
+  },
+  {
+    "file": "og-card.jpg",
+    "derived_from": "icecube.jpg",
+    "modifications": "Cropped photograph with locally added typography; same noncommercial conditions"
+  }
+]
